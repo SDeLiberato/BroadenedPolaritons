@@ -1,5 +1,6 @@
 % Companion code for the publication: 
 % Exact solution of polaritonic systems with arbitrary light and matter frequency-dependent losses
+% The Journal of Chemical Physics 156, 084106 (2022)
 % Erika Cortese and Simone De Liberato
 % School of Physics and Astronomy, University of Southampton, Southampton, SO17 1BJ, United Kingdom
 
